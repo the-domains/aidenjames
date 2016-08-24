@@ -1,4 +1,5 @@
-layout_spectrum: 1
+layout_spectrum: 0.4641577
+typography_spectrum: 0.9336917
 color:
   saturation: 0.7433671
   lightness: 0.6202384
@@ -10,5 +11,4 @@ color:
     - '#CCB89F'
     - '#7B9FE9'
   rhythmicContrast: 0.001267826
-typography_spectrum: 0.9336917
 name: Aidenjames
