@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7433671
+  lightness: 0.6202384
+  brandStrength: 0.898851
+  brandColors:
+    - '#F4F4F4'
+    - '#1E1B14'
+    - '#5C5D57'
+    - '#CCB89F'
+    - '#7B9FE9'
+  rhythmicContrast: 0.001267826
+typography_spectrum: 0.9336917
+name: Aidenjames
