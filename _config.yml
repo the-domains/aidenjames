@@ -1,16 +1,26 @@
-typography_spectrum: 0.9336917
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
-  saturation: 0.7433671
-  lightness: 0.6202384
+  saturation: 0.453405
   brandStrength: 1
+  lightness: 0.4498208
   brandColors:
     - '#F4F4F4'
     - '#1E1B14'
     - '#5C5D57'
     - '#CCB89F'
     - '#7B9FE9'
-  rhythmicContrast: 0.001267826
-layout_spectrum: 0.4641577
+  rhythmicContrast: 1
+layout_spectrum: 0.6953405
 name: Aidenjames
-title: Outdoorsman
-description: Poet
